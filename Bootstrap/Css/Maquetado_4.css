@@ -1,0 +1,97 @@
+/*Centro de Biotecnologia Agropecuaria
+Análisis y Desarrollo de Software
+Ficha: 2470980
+Autor: Lina Jhoanna Martínez Garzón
+Fecha de creación: 09/03/2022
+Fecha de actualización: 14/03/2022*/
+
+/*Nos ayuda a centrar el texto y colocar la fuente deseada.*/
+* { margin: 0; 
+    padding: 0; 
+    text-align: center; 
+    font-family: arial; 
+}
+/*Border, artibuto para darle un borde a la columna.*/
+#container{
+    background-color: rgb(255, 255, 255);
+}
+
+#header{
+    background-color: rgb(81, 255, 0);
+    border: 2px solid black
+}
+
+#aside_right{
+    background-color: rgb(255, 0, 0);
+    border: 2px solid black
+}
+
+#nav{
+    background-color: rgb(255, 0, 200);
+    border: 2px solid black
+}
+
+#article1{
+    background-color: rgb(253, 160, 160);
+    border: 2px solid black
+}
+
+#article2{
+    background-color: rgb(253, 160, 160);
+    border: 2px solid black
+}
+
+#content1{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content2{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content3{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content4{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content5{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content6{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content7{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content8{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content9{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#content10{
+    background-color: rgb(0, 22, 150);
+    border: 2px solid black
+}
+
+#foorter1{
+    background-color: rgb(103, 255, 32);
+    border: 2px solid black
+}

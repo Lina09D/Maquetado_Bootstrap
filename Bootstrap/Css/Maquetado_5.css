@@ -1,0 +1,62 @@
+/*Centro de Biotecnologia Agropecuaria
+Análisis y Desarrollo de Software
+Ficha: 2470980
+Autor: Lina Jhoanna Martínez Garzón
+Fecha de creación: 09/03/2022
+Fecha de actualización: 12/03/2022*/
+
+/*Nos ayuda a centrar el texto y colocar la fuente deseada.*/
+* { margin: 0; 
+    padding: 0; 
+    text-align: center; 
+    font-family: arial; 
+}
+/*Contenido del sitio web*/
+#container{
+    background-color: white ;
+}
+/*Border, artibuto para darle un borde a la columna.*/
+/* Menú del sitio web*/
+.nav li a{
+    border: solid 2px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: block;
+    padding: 35px;
+    width: 180px;
+    margin: 15px;
+}
+.nav li{
+    display:inline-block
+}
+
+/*Imagen N° 1*/
+#imagen0{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black
+}
+/*Imagen N° 2*/
+#imagen1{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black  
+}
+/*Imagen N° 3*/
+#imagen2{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black
+}
+/*Imagen N° 4*/
+#imagen3{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black
+}
+/*Imagen N° 5*/
+#imagen4{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black
+}
+/*Imagen N° 6*/
+#imagen5{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black    
+}
